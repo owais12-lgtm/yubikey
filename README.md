@@ -1,0 +1,1 @@
+I made a custom yubikey thats really really tiny so i can put it on my keychain without it being annoying! It uses the STM32L432KBUx with an ATECC608 for maximum security, and will have the following protocol stack -FIDO2 -U2F -HOTP -PIV
